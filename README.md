@@ -1,2 +1,0 @@
-# thttpd
-thttpd webserver
